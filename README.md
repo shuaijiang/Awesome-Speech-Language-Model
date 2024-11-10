@@ -29,6 +29,8 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.16020) - `arXiv 2024`
 - SALMon: [A Suite for Acoustic Language Model Evaluation](https://arxiv.org/abs/2409.07437) - `arXiv 2024`
 - [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark](https://www.arxiv.org/abs/2410.19168) - `arXiv 2024`
+- [Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech](https://arxiv.org/abs/2309.09510) - `ICASSP 2024`
+- [Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks](https://openreview.net/forum?id=s7lzZpAW7T) - `ICLR 2024 open review`
 
 ## End2End Speech Dialogue System
 
