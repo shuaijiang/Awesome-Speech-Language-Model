@@ -64,3 +64,5 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 ## Survey
 - [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) - `arXiv 2024`
 - [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908) - `arXiv 2024`
+- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) - `arXiv 2024`
+- [Speech Trident](https://github.com/ga642381/speech-trident) - `Github`
