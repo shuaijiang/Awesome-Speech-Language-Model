@@ -24,11 +24,13 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 - DiVA: [Distilling an End-to-End Voice Assistant Without Instruction Training Data](https://arxiv.org/abs/2410.02678) - `arXiv 2024`
 
 ### Benchmark
+- [Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech](https://arxiv.org/abs/2309.09510) - `ICASSP 2024`
 - [AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension](https://arxiv.org/abs/2402.07729) - `ACL 2024`
 - [SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words](https://arxiv.org/abs/2406.13340) - `arXiv 2024`
 - [AudioBench: A Universal Benchmark for Audio Large Language Models](https://arxiv.org/abs/2406.16020) - `arXiv 2024`
 - SALMon: [A Suite for Acoustic Language Model Evaluation](https://arxiv.org/abs/2409.07437) - `arXiv 2024`
 - [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark](https://www.arxiv.org/abs/2410.19168) - `arXiv 2024`
+- [Dynamic-SUPERB Phase-2: A Collaboratively Expanding Benchmark for Measuring the Capabilities of Spoken Language Models with 180 Tasks](https://openreview.net/forum?id=s7lzZpAW7T) - `ICLR 2024 open review`
 
 ## End2End Speech Dialogue System
 
@@ -62,5 +64,7 @@ Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue 
 
 
 ## Survey
+- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) - `arXiv 2024`
 - [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) - `arXiv 2024`
 - [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908) - `arXiv 2024`
+- [Speech Trident](https://github.com/ga642381/speech-trident) - `Github`
